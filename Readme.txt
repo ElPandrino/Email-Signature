@@ -1,1 +1,1 @@
-Firma responsive. Hecha con table y style de css.
+Responsive Signatuyre. Made with table (HTML) and Style (CSS).
